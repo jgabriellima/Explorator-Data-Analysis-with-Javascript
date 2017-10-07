@@ -1,5 +1,6 @@
 
-##Exploratory Data Analysis with Javascript
+###Exploratory Data Analysis with Javascript
+
 ####Author: João Gabriel Lima
 
 **In this repo you can see this examples:**
