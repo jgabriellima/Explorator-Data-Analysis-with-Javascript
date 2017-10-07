@@ -1,0 +1,18 @@
+{
+  "name": "Exploratory-Data-Analysis-with-Javascript",
+  "version": "1.0.0",
+  "description": "Exploratory Data Analysis with Javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Gabriel Lima",
+  "dependencies": {
+    "data-forge": "^0.5.3",
+    "opn": "^4.0.2",
+    "plotly": "^1.0.6",
+    "simple-statistics": "^3.0.0",
+    "statistical-js": "^2.1.0",
+    "stats-analysis": "^2.0.0",
+    "summary": "^0.3.2"
+  }
+}
